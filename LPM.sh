@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-# Linux Package Manager v10.5 - Clean Backup & Restore Menu Name
 
 TMP_PY=$(mktemp /tmp/lpm_XXXXXX.py)
 
